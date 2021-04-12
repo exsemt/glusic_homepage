@@ -1,1 +1,3 @@
-# glusic_homepage
+# Glusic homepage
+
+http://glusic.de
